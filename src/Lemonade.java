@@ -127,7 +127,7 @@ public class Lemonade {
 	    (new InputStreamReader(System.in));
 
 	// Gets name of player.
-	System.out.println("Welcome to the game of Lemonade.");
+	System.out.println("Welcome to the game of Lemonide.");
 	System.out.println("Enter your name.");
 	String name = stdin.readLine();
 
